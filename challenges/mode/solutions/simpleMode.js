@@ -1,3 +1,4 @@
+//ashes74 and juicecrawl
 function SimpleMode(arr) {
 
   // initialize
